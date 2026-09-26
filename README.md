@@ -4,7 +4,7 @@ A clean, fast, and reusable **Competitive Programming (CP)** template for **Code
 
 > Author: **Soumyadwip Pal**
 >
-> Codeforces ID: **Soumya_26H**
+> 
 
 ---
 
