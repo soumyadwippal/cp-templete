@@ -3,7 +3,7 @@ using namespace std;
 
 // ======================================================
 //              Codeforces CP Template
-//          Author : soumyadwip_pal (Soumya_26H)
+//          Author : soumyadwip_pal 
 // ======================================================
 
 // ---------- Fast I/O ----------
